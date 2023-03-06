@@ -5,3 +5,5 @@ C
 Section3/AzureVM.md,8\e\8ed8dbddf1ab0109e4111affaafa25d904e92b92
 G
 Section3/CreatingvVM.md,5\d\5db1dfd49bfb0ce77c5bc4e8aa20aaddb216589b
+M
+Section1/AzureFundamentals.md,9\a\9ad5aa45e29e40518b25cad66a8bf2e4fab72307
